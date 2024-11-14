@@ -15,8 +15,8 @@
             </p>
             <p class="flex items-center gap-2">
               <Mail :size="20" />
-              <a href="mailto:piarcoguesthouse@gmail.com">
-                piarcoguesthouse@gmail.com
+              <a href="mailto:Piarcoairportguesthouse@gmail.com">
+                Piarcoairportguesthouse@gmail.com
               </a>
             </p>
           </div>
@@ -80,7 +80,7 @@
       </div>
 
       <div class="border-t border-gray-800 mt-8 pt-8 text-center">
-        <p>&copy; {{ new Date().getFullYear() }} Piarco Guest House. All rights reserved.</p>
+        <p>&copy; {{ new Date().getFullYear() }} Piarco Airport Guest House. All rights reserved.</p>
       </div>
     </div>
   </footer>

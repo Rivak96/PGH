@@ -55,7 +55,7 @@
                     href="mailto:Piarcoguesthouse@gmail.com" 
                     class="text-purple-600 hover:text-purple-700 transition-colors"
                   >
-                    piarcoguesthouse@gmail.com
+                  piarcoairportguesthouse@gmail.com
                   </a>
                 </div>
               </div>

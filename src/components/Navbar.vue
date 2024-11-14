@@ -7,7 +7,7 @@
       <div class="flex justify-between h-16 items-center">
         <div class="flex-shrink-0">
           <RouterLink to="/" class="text-2xl font-bold text-blue-900">
-            Piarco Guest House
+            Piarco Airport Guest House
           </RouterLink>
         </div>
         

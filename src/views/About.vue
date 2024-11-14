@@ -2,7 +2,7 @@
   <div class="pt-16 min-h-screen">
     <section class="py-20 bg-white">
       <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h1 class="text-4xl font-bold text-center text-gray-900 mb-8">About Piarco Guest House</h1>
+        <h1 class="text-4xl font-bold text-center text-gray-900 mb-8">About Piarco Airport Guest House</h1>
         
         <div class="prose prose-lg mx-auto">
           <p class="mb-6">

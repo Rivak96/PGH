@@ -15,7 +15,7 @@
         class="object-cover w-full h-full"
       />
       <div class="absolute inset-0 flex flex-col items-center justify-center z-20 text-white text-center px-4">
-        <h1 class="text-5xl md:text-6xl font-bold mb-4">Piarco Guest House</h1>
+        <h1 class="text-5xl md:text-6xl font-bold mb-4">Piarco Airport Guest House</h1>
         <p class="text-xl md:text-2xl mb-8">
           Relaxed Accommodation Minutes from Piarco International Airport
         </p>
